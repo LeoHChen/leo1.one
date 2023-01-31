@@ -10,5 +10,6 @@ var redirectorDB = {
     "zoom": 'https://zoom.us/j/9867510240',
     "meet": 'https://meet.google.com/cec-xnpg-bks',
     "cal": 'https://calendar.google.com/calendar/u/0?cid=bGVvQHN0b3J5cHJvdG9jb2wueHl6',
-    "linkedin": 'https://www.linkedin.com/in/haochen/'
+    "linkedin": 'https://www.linkedin.com/in/haochen/',
+    "github": 'https://github.com/LeoHChen'
 };
